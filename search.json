@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "webinars.html",
-    "href": "webinars.html",
-    "title": "Webinars",
+    "objectID": "history.html",
+    "href": "history.html",
+    "title": "History",
     "section": "",
-    "text": "Add upcoming webinars."
-  },
-  {
-    "objectID": "mission.html",
-    "href": "mission.html",
-    "title": "Mission, vision, values",
-    "section": "",
-    "text": "The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people.\n\n\n\n\n\n\nNote\n\n\n\nTO DO: More to add here so it’s not just repeating the short mission from homepage and about?"
-  },
-  {
-    "objectID": "jedi-corner.html",
-    "href": "jedi-corner.html",
-    "title": "JEDI Corner",
-    "section": "",
-    "text": "Add info on JEDI Corner."
+    "text": "Note\n\n\n\nAmstat article on the history of the group is here: https://magazine.amstat.org/blog/2021/05/01/the-origins-of-jedi/\nWe can also pull from the first JEDI corner for this: https://magazine.amstat.org/blog/2021/10/01/jedi-corner-october-2021/\n\n\nIn particular: “The American Statistical Association has established the Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group to develop a diverse and inclusive environment that embraces all statisticians and data scientists, as well as to study and address statistical methods that can potentially introduce or exacerbate inequities and injustices in our society. Accordingly, we are committed to communication, programming, and professional development to advance and support a society that values all people.”\n\n\n\n\n\n\nNote\n\n\n\nTO DO: More detailed discussion of role of JEDI in statistics?"
   },
   {
     "objectID": "index.html",
@@ -28,18 +14,39 @@
     "text": "Tweets by DataSciJedi \n\n\n\n\n\nThe Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people.\nJEDI is an outreach group of the American Statistical Association."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "DataSci JEDI",
-    "section": "",
-    "text": "The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people."
-  },
-  {
     "objectID": "welcome.html",
     "href": "welcome.html",
     "title": "Welcome from the chair",
     "section": "",
     "text": "Note\n\n\n\nTO DO: Add welcome note from the chair.\nWe could incorporate some of our goals for the website here if we want to make it like a “welcome to this website” note, including what we hope people will learn/be able to do at the site"
+  },
+  {
+    "objectID": "webinars.html",
+    "href": "webinars.html",
+    "title": "Webinars",
+    "section": "",
+    "text": "Add upcoming webinars."
+  },
+  {
+    "objectID": "activities.html",
+    "href": "activities.html",
+    "title": "JEDI Activities",
+    "section": "",
+    "text": "Note\n\n\n\nTO DO: Add activities."
+  },
+  {
+    "objectID": "mission.html",
+    "href": "mission.html",
+    "title": "Mission, vision, values",
+    "section": "",
+    "text": "The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people.\n\n\n\n\n\n\nNote\n\n\n\nTO DO: More to add here so it’s not just repeating the short mission from homepage and about?"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "DataSci JEDI",
+    "section": "",
+    "text": "The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people."
   },
   {
     "objectID": "CONTRIBUTING.html",
@@ -56,11 +63,11 @@
     "text": "Become a member of the JEDI Outreach Group by filling out the form below. Members receive emails from our chair on JEDI-related news, can contribute to the community by joining one of our committees, vote for future committee board members, and more.\nIf you are interested in learning more about the JEDI Outreach Group, contact us at admin@datascijedi.org.\nLoading…"
   },
   {
-    "objectID": "history.html",
-    "href": "history.html",
-    "title": "History",
+    "objectID": "jedi-corner.html",
+    "href": "jedi-corner.html",
+    "title": "JEDI Corner",
     "section": "",
-    "text": "Note\n\n\n\nAmstat article on the history of the group is here: https://magazine.amstat.org/blog/2021/05/01/the-origins-of-jedi/\nWe can also pull from the first JEDI corner for this: https://magazine.amstat.org/blog/2021/10/01/jedi-corner-october-2021/\n\n\nIn particular: “The American Statistical Association has established the Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group to develop a diverse and inclusive environment that embraces all statisticians and data scientists, as well as to study and address statistical methods that can potentially introduce or exacerbate inequities and injustices in our society. Accordingly, we are committed to communication, programming, and professional development to advance and support a society that values all people.”\n\n\n\n\n\n\nNote\n\n\n\nTO DO: More detailed discussion of role of JEDI in statistics?"
+    "text": "Add info on JEDI Corner."
   },
   {
     "objectID": "resources.html",
@@ -68,12 +75,5 @@
     "title": "Resources",
     "section": "",
     "text": "Our partners/broader community links:\n\nStatistics without Borders https://www.statisticswithoutborders.org/ \nCaucus for Women in Statistics https://cwstat.org/ \n\nLinks to resources:\n\nhttps://labs.icahn.mssm.edu/bennlab/antiracism-resources/\nhttps://library.osu.edu/researchcommons/2020/06/17  (Web view)\nhttps://medicine-matters.blogs.hopkinsmedicine.org/files/2016  (Web view)\nhttps://www.cdc.gov/healthcommunication/Preferred_Terms.html  (Web view)\nDonna and Yates have started to compile resources, could transfer those here\n\nA possible example for the type of resources to share:  See: https://cwstat.org/professional-development-resources/ or https://cwstat.org/publications/cws-library/ (although the formatting could be better for this library)"
-  },
-  {
-    "objectID": "activities.html",
-    "href": "activities.html",
-    "title": "JEDI Activities",
-    "section": "",
-    "text": "Note\n\n\n\nTO DO: Add activities."
   }
 ]
