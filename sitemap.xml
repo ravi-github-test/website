@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://datascijedi.github.io/website/history.html</loc>
-    <lastmod>2022-11-19T04:29:37.263Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.github.io/website/index.html</loc>
-    <lastmod>2022-11-19T04:29:39.359Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.github.io/website/welcome.html</loc>
-    <lastmod>2022-11-19T04:29:39.711Z</lastmod>
+    <loc>https://datascijedi.github.io/website/about.html</loc>
+    <lastmod>2022-11-26T16:15:35.409Z</lastmod>
   </url>
   <url>
     <loc>https://datascijedi.github.io/website/webinars.html</loc>
-    <lastmod>2022-11-19T04:29:40.043Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.github.io/website/activities.html</loc>
-    <lastmod>2022-11-19T04:29:40.415Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.github.io/website/mission.html</loc>
-    <lastmod>2022-11-19T04:29:40.787Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.github.io/website/about.html</loc>
-    <lastmod>2022-11-19T04:29:41.155Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.github.io/website/CONTRIBUTING.html</loc>
-    <lastmod>2022-11-19T04:29:41.535Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.github.io/website/get-involved.html</loc>
-    <lastmod>2022-11-19T04:29:41.863Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.github.io/website/jedi-corner.html</loc>
-    <lastmod>2022-11-19T04:29:42.219Z</lastmod>
-  </url>
-  <url>
-    <loc>https://datascijedi.github.io/website/resources.html</loc>
-    <lastmod>2022-11-19T04:29:42.595Z</lastmod>
+    <lastmod>2022-11-26T16:15:37.481Z</lastmod>
   </url>
   <url>
     <loc>https://datascijedi.github.io/website/contact.html</loc>
-    <lastmod>2022-11-19T04:29:42.959Z</lastmod>
+    <lastmod>2022-11-26T16:15:37.805Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.github.io/website/history.html</loc>
+    <lastmod>2022-11-26T16:15:38.161Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.github.io/website/index.html</loc>
+    <lastmod>2022-11-26T16:15:38.489Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.github.io/website/CONTRIBUTING.html</loc>
+    <lastmod>2022-11-26T16:15:38.853Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.github.io/website/mission.html</loc>
+    <lastmod>2022-11-26T16:15:39.177Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.github.io/website/jedi-corner.html</loc>
+    <lastmod>2022-11-26T16:15:39.525Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.github.io/website/welcome.html</loc>
+    <lastmod>2022-11-26T16:15:39.873Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.github.io/website/get-involved.html</loc>
+    <lastmod>2022-11-26T16:15:40.217Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.github.io/website/resources.html</loc>
+    <lastmod>2022-11-26T16:15:40.561Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datascijedi.github.io/website/activities.html</loc>
+    <lastmod>2022-11-26T16:15:40.889Z</lastmod>
   </url>
 </urlset>
