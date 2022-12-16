@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.269">
+<meta name="generator" content="quarto-1.2.280">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -33,6 +33,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="./jedi-corner.html" rel="next">
 <link href="./activities.html" rel="prev">
 <link href="./mages/jedi-logo.jpg" rel="icon" type="image/jpeg">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -63,13 +65,69 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-upcoming-webinars .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-upcoming-webinars'] = new List('listing-upcoming-webinars', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-past-webinars .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-past-webinars'] = new List('listing-past-webinars', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <meta property="og:title" content="DataSci JEDI - Webinars">
-<meta property="og:description" content="Add upcoming webinars.">
 <meta property="og:site-name" content="DataSci JEDI">
 <meta name="twitter:title" content="DataSci JEDI - Webinars">
-<meta name="twitter:description" content="Add upcoming webinars.">
 <meta name="twitter:image" content="https://datascijedi.github.io/website/images/jedi-logo-square.png">
 <meta name="twitter:creator" content="@datascijedi">
 <meta name="twitter:image-height" content="400">
@@ -77,7 +135,7 @@ ul.task-list li input[type="checkbox"] {
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-sidebar docked nav-fixed">
+<body class="nav-sidebar docked nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -177,9 +235,7 @@ ul.task-list li input[type="checkbox"] {
     </div>
 </nav>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -200,9 +256,129 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Add upcoming webinars.</p>
+<section id="upcoming-webinars" class="level2">
+<h2 class="anchored" data-anchor-id="upcoming-webinars">Upcoming webinars</h2>
+<div id="listing-upcoming-webinars" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1671926400000" data-listing-file-modified-sort="1671169367851" data-listing-reading-time-sort="0.06">
+<a href="./webinars/upcoming/dummy-webinar-page.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./webinars/images/incorporating-diversity.png" class="thumbnail-image card-img" style="height: 150px;" alt="Title page of slides for Incorporating Diversity, Equity, and Inclusion Principles in Biostatistics Courses presentation">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Title for upcoming webinar
+</h5>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Name 1, Name 2 and Name 3
+</div>
+<div class="listing-date">
+Dec 25, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="past-webinars" class="level2">
+<h2 class="anchored" data-anchor-id="past-webinars">Past webinars</h2>
+<div id="listing-past-webinars" class="quarto-listing quarto-listing-container-table">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-past-webinars-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-past-webinars'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+         <option value="listing-title-sort" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-author" data-direction="asc">
+          Presenter(s)
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Presenter(s)</a>
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-date-sort="1662854400000" data-listing-file-modified-sort="1671169367851" data-listing-reading-time-sort="0.29" data-listing-title-sort="Writing Fair Letters of Recommendation: Considerations for the Requester and the Writer" data-listing-filename-sort="2022-09-11-letters-of-recommendation.qmd">
+<td class="listing-date">
+Sep 11, 2022
+</td>
+<td class="listing-title">
+<a href="./webinars/past/2022-09-11-letters-of-recommendation.html" class="title">Writing Fair Letters of Recommendation: Considerations for the Requester and the Writer</a>
+</td>
+<td class="listing-author">
+Jareen K. Meinzen-Derr
+</td>
+</tr>
+<tr data-index="1" data-listing-date-sort="1651104000000" data-listing-file-modified-sort="1671169367851" data-listing-reading-time-sort="0.13" data-listing-title-sort="The Power of Representation: My Journey to the Field of Biostatistics (The Journey Continues…) - From Patsie to Annie" data-listing-filename-sort="2022-04-28-power-of-representation.qmd">
+<td class="listing-date">
+Apr 28, 2022
+</td>
+<td class="listing-title">
+<a href="./webinars/past/2022-04-28-power-of-representation.html" class="title">The Power of Representation: My Journey to the Field of Biostatistics (The Journey Continues…) - From Patsie to Annie</a>
+</td>
+<td class="listing-author">
+Loni Tabb
+</td>
+</tr>
+<tr data-index="2" data-listing-date-sort="1635465600000" data-listing-file-modified-sort="1671169367851" data-listing-reading-time-sort="0.32" data-listing-title-sort="Incorporating Diversity, Equity, and Inclusion Principles in Biostatistics Courses: Two Case Studies" data-listing-filename-sort="2021-29-10-incorporating-diversity.qmd">
+<td class="listing-date">
+Oct 29, 2021
+</td>
+<td class="listing-title">
+<a href="./webinars/past/2021-29-10-incorporating-diversity.html" class="title">Incorporating Diversity, Equity, and Inclusion Principles in Biostatistics Courses: Two Case Studies</a>
+</td>
+<td class="listing-author">
+Scarlett Bellamy, Reneé Moore, and Andrea Lane
+</td>
+</tr>
+</tbody>
+
+</table>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
 
 
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
