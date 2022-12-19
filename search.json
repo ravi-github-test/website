@@ -4,7 +4,7 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Our partners/broader community links:\n\nStatistics without Borders https://www.statisticswithoutborders.org/ \nCaucus for Women in Statistics https://cwstat.org/ \nStats4Good https://magazine.amstat.org/blog/category/columnnews/stats4good/\nPeace-Work https://www.peace-work.org/\n\nLinks to resources:\n\nAnti-racism resources compiled by Mount Sinai Center for Scientific Diversity and JEDI Emma Benn https://labs.icahn.mssm.edu/bennlab/antiracism-resources/\nGuide for how to use preferred terms and non-stigmatizing language for select subgroups https://www.cdc.gov/healthcommunication/Preferred_Terms.html"
+    "text": "Our partners/broader community links:\n\nStatistics without Borders https://www.statisticswithoutborders.org/ \nCaucus for Women in Statistics https://cwstat.org/ \nStats4Good https://magazine.amstat.org/blog/category/columnnews/stats4good/\nPeace-Work https://www.peace-work.org/\n\nLinks to resources:\n\nAnti-racism resources compiled by Mount Sinai Center for Scientific Diversity and JEDI Emma Benn https://labs.icahn.mssm.edu/bennlab/antiracism-resources/\nGuide for how to use preferred terms and non-stigmatizing language for select subgroups https://www.cdc.gov/healthcommunication/Preferred_Terms.html\nCompilation of literature with recommendations on how to use data on race, ethnicity, gender, and sexual orientation is research"
   },
   {
     "objectID": "webinars/past/2022-04-28-power-of-representation.html",
@@ -70,25 +70,18 @@
     "text": "Slides"
   },
   {
-    "objectID": "webinars/upcoming/dummy-webinar-page.html",
-    "href": "webinars/upcoming/dummy-webinar-page.html",
+    "objectID": "webinars/upcoming/dummy-webinar-page.html#overview",
+    "href": "webinars/upcoming/dummy-webinar-page.html#overview",
     "title": "Title for upcoming webinar",
-    "section": "",
-    "text": "Name 1\nName 2\nName 3"
+    "section": "Overview",
+    "text": "Overview\nEvent description here"
   },
   {
-    "objectID": "webinars/upcoming/dummy-webinar-page.html#recording",
-    "href": "webinars/upcoming/dummy-webinar-page.html#recording",
+    "objectID": "webinars/upcoming/dummy-webinar-page.html#presenters-and-affiliations",
+    "href": "webinars/upcoming/dummy-webinar-page.html#presenters-and-affiliations",
     "title": "Title for upcoming webinar",
-    "section": "Recording",
-    "text": "Recording"
-  },
-  {
-    "objectID": "webinars/upcoming/dummy-webinar-page.html#slides",
-    "href": "webinars/upcoming/dummy-webinar-page.html#slides",
-    "title": "Title for upcoming webinar",
-    "section": "Slides",
-    "text": "Slides"
+    "section": "Presenters and affiliations",
+    "text": "Presenters and affiliations\n\nName 1\nName 2\nName 3\n\n\nRegister now"
   },
   {
     "objectID": "CODE_OF_CONDUCT.html",
@@ -151,7 +144,7 @@
     "href": "about.html",
     "title": "DataSci JEDI",
     "section": "",
-    "text": "The Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people."
+    "text": "In 2021, the American Statistical Association established the Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group. JEDI is a community of statisticians and data scientists committed to communication, programming, and professional development to advance a society that values all people. The group considers all dimensions of diversity, including but not limited to race, gender, sexual orientation, age, persons with disabilities, and socioeconomic status. JEDI provides a diverse and inclusive environment that embraces all members and educates our community about JEDI-related matters. The group is further committed to promoting statistical methods to measure and address inequities and injustices in our society.\nRead about the origins of the JEDI Outreach Group in Amstat News."
   },
   {
     "objectID": "LICENSE.html",
@@ -214,7 +207,7 @@
     "href": "webinars.html",
     "title": "Webinars",
     "section": "",
-    "text": "Name 1, Name 2 and Name 3\n\n\nDec 25, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "New webinars are coming in 2023! Sign up for our weekly newsletter for the latest news on all JEDI Outreach Group activities."
   },
   {
     "objectID": "webinars.html#past-webinars",
@@ -228,7 +221,28 @@
     "href": "index.html",
     "title": "JEDI Outreach Group",
     "section": "",
-    "text": "Tweets by DataSciJedi \n\n\n\n\n\nThe Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group, a community of statisticians and data scientists, is committed to communication, programming, and professional development to advance and support a society that values all people.\nJEDI is an outreach group of the American Statistical Association."
+    "text": "Tweets by DataSciJedi\nThe Justice, Equity, Diversity, and Inclusion (JEDI) Outreach Group is a community of statisticians and data scientists committed to communication, programming, and professional development to advance and support a society that values all people. JEDI is an outreach group of the American Statistical Association.\nAbout JEDI JEDI Activities"
+  },
+  {
+    "objectID": "index.html#jedi-corner",
+    "href": "index.html#jedi-corner",
+    "title": "JEDI Outreach Group",
+    "section": "JEDI Corner",
+    "text": "JEDI Corner\n\n\n\n    \n      \n        \n        \n          \n        \n        Achieving Diversity in Labor Market Needs JEDI, Advocacy Groups\n         By Joseph Gastwirth, published Dec 1, 2022\n        The Civil Rights movement, which led to the desegregation of schools and the Civil Rights Acts of 1964 and 1972, helped improve the economic status of Blacks relative to whites from the 1950s to the early 1980s. According to \"Black-White Earnings Over the 1970s and 1980s, Gender Differences in Trends\" in The Review of Economics and Statistics, however, socioeconomic disparities have persisted due to, in part, legal, governmental, and societal practices that systematically deny resources and opportunities to racial minorities.\n      \n      \n    \n\n\nNo matching items\n\n\n\nThe JEDI Corner is a regular component of Amstat News in which statisticians write about and educate our community about JEDI-related matters.\nView the JEDI Corner archives"
+  },
+  {
+    "objectID": "index.html#jedi-webinars",
+    "href": "index.html#jedi-webinars",
+    "title": "JEDI Outreach Group",
+    "section": "JEDI Webinars",
+    "text": "JEDI Webinars\n\n\n\n    \n      \n        \n          \n        \n        Title for upcoming webinar\n         Featuring: Name 1, Name 2 and Name 3\n         Date: Dec 25, 2022\n      \n      \n    \n\n\nNo matching items\n\n\n\nJEDI Committees organize webinars to educate the community on JEDI-related topics and foster discussion among JEDI members.\nView the JEDI Webinar archives"
+  },
+  {
+    "objectID": "index.html#get-involved",
+    "href": "index.html#get-involved",
+    "title": "JEDI Outreach Group",
+    "section": "Get involved",
+    "text": "Get involved\nSign-up for your free membership to the JEDI Outreach Group.\nBecome a JEDI member"
   },
   {
     "objectID": "get-involved.html",
@@ -238,10 +252,17 @@
     "text": "Become a member of the JEDI Outreach Group by filling out the form below. Members receive emails from our chair on JEDI-related news, can contribute to the community by joining one of our committees, vote for future committee board members, and more.\nIf you are interested in learning more about the JEDI Outreach Group, contact us at admin@datascijedi.org.\nLoading…"
   },
   {
+    "objectID": "weekly-newsletter.html",
+    "href": "weekly-newsletter.html",
+    "title": "Weekly newsletter",
+    "section": "",
+    "text": "JEDI members stay connected via a weekly update email sent by the Chair. The content of these emails changes weekly, but includes items like:\n\nInformation on upcoming JEDI webinars\nLinks to the latest JEDI Corner\nInvitations to JEDI Committee Meetings\nAdvertisements for webinars from partner organizations\nOpportunities for awards and grants\nProgramming for upcoming conferences or professional development\nJob postings\nLinks to interesting articles\nShoutouts to JEDI members\n\nSign up for your free membership here.\nAlready a JEDI member and have something you want to share with the community? Let us know!"
+  },
+  {
     "objectID": "activities.html",
     "href": "activities.html",
     "title": "JEDI Activities",
     "section": "",
-    "text": "Note\n\n\n\nTO DO: Add activities."
+    "text": "Our committees are actively working to promote justice, equity, diversity, and inclusion (JEDI) principles in statistics and data science.\nThe Awards committee is focused on diversifying nominations for the American Statistical Association’s (ASA) Fellows Award as well as other awards for statisticians within and outside of the ASA.\nThe Communications committee manages the JEDI Outreach Group social media channels and website, coordinates the JEDI Corner in Amstat News, and advertises JEDI-related events and opportunities.\nThe Liaison committee collaborates with other organizations within and outside of the ASA to develop and maintain best practices for JEDI in our scientific communities.\nThe Professional Development committee provides opportunities for members to learn about JEDI-related issues and how to develop communities that are just, equitable, diverse and inclusive.\nThe Program Committee develops and contributes programming that promotes a just, equitable, diverse and inclusive statistics community and addresses areas of statistical study that face JEDI-related implications. This committee will work to incorporate and/or sponsor JEDI-related programming in statistical conferences.\nThe Students and Young Professionals committee provides an opportunity for students and young professionals (within five years of their highest degree) to gather and convene to discuss their JEDI-related experiences and concerns. This committee can further pass along ideas and collaborate with the other JEDI Outreach Group committees to publicize and address their related concerns and interests.\nWant to get involved? Sign up for the JEDI Outreach Group and check out the weekly newsletter for opportunities to contribute to committee activities."
   }
 ]
