@@ -1,10 +1,6 @@
 [
   {
-    "listing": "/jedi-corner.html",
-    "items": []
-  },
-  {
-    "listing": "/webinars.html",
+    "listing": "/index.html",
     "items": [
       "/webinars/past/2022-10-24-graduate-admissions.html",
       "/webinars/past/2022-09-11-letters-of-recommendation.html",
@@ -13,7 +9,11 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/jedi-corner.html",
+    "items": []
+  },
+  {
+    "listing": "/webinars.html",
     "items": [
       "/webinars/past/2022-10-24-graduate-admissions.html",
       "/webinars/past/2022-09-11-letters-of-recommendation.html",
