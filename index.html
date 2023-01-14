@@ -101,9 +101,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-toc','listing-image','listing-href','listing-author-title','listing-published-title','listing-path','listing-description','listing-filename','listing-file-modified','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-toc','listing-image','listing-image-alt','listing-href','listing-author-title','listing-published-title','listing-path','listing-description','listing-filename','listing-file-modified','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-toc","listing-image","listing-href","listing-author-title","listing-published-title","listing-path","listing-description","listing-filename","listing-file-modified","listing-reading-time"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-toc","listing-image","listing-image-alt","listing-href","listing-author-title","listing-published-title","listing-path","listing-description","listing-filename","listing-file-modified","listing-reading-time"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -143,7 +143,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/jedi-logo-square.png" alt="" class="navbar-logo">
+    <img src="./images/jedi-logo-square.png" alt="JEDI logo" class="navbar-logo">
     </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">JEDI Outreach Group</span>
@@ -272,7 +272,7 @@ No matching items
 <div class="grid">
 <div id="listing-jedi-webinars" class="g-col-lg-6 g-col-12 quarto-listing quarto-listing-container-custom">
 <div class="list">
-    <div data-index="0" data-listing-date-sort="1674172800000" data-listing-file-modified-sort="1673206056681" data-listing-reading-time-sort="1.59">
+    <div data-index="0" data-listing-date-sort="1674172800000" data-listing-file-modified-sort="1673671782248" data-listing-reading-time-sort="1.865">
       <div class="style">
         <a href="./webinars/upcoming/disability-webinar.html">
           <img src="./webinars/images/disability-webinar.png" width="100%" alt="">
@@ -563,7 +563,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       <div class="nav-footer-center">
         <ul class="footer-items list-unstyled">
     <li class="nav-item">
- <div><p><a href="https://github.com/datascijedi/website/edit/main/index.qmd"><div><i class="bi bi-github"></i></div>Edit this page</a></p></div>
+ <div><p><a aria-label="Edit this page" href="https://github.com/datascijedi/website/edit/main/index.qmd"><div><i class="bi bi-github" aria-hidden="true"></i></div>Edit this page</a></p></div>
   </li>  
 </ul>
       </div>
